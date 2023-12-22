@@ -1,9 +1,13 @@
 # openai-kotowaza
+
 Azure OpenAI Service × Next.jsで、架空のことわざ生成アプリを作ってみた話
+
 https://qiita.com/yu-tsubo2/items/28e7128be9062defd8b7
 
 ## mod
+
 Next.js学習のために大量のconsole.logを追加
+
 OpenAI Client チャット応答にjsonに不要な文字列が含まれるので除去するコードを追加
 
 
